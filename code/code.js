@@ -1,2 +1,2 @@
-console.log("Hello");
-console.log("dddd");
+console.log("hello");
+console.log("Javascipt");
