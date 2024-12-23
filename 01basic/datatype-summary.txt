@@ -1,0 +1,73 @@
+Two types of data types in JavaScript
+
+1. Primitive:  The value of the variable will be assigned not the actual memory reference
+Data types: Sting, Number, Boolen, null, undefined, Symbol, BigInt.
+
+2. Non-Primitive: The refernce of the variable will be assigned.
+Data Type: Array, Objects, FUnctions
+
+-----------------------------------------------------------------------------------------
+
+Dynamic Typed: Javascript is Dynamic typed language. We need not to specifically defined the data type of the variable.
+
+-----------------------------------------------------------------------------------------
+
+Heap and Stack
+
+Javascript is high level programing language hence memory management (allow, release) will be done by javascript automatically in browser( in javascript engine) or in node with garbage collector.
+
+Javascript engine has two places to store the data.
+1. Stack - Where javascript engine store the static value, where javascript aware the fixed amount of memory wil be used by speciifc vailable. Its all primitive stores in Stack. Only the reference or vailable value of non primitive stores in stack.
+
+2. Heap - where javscript engine unsure how much space that vaialbe will take, Its all non primitive data types stored in here
+
+-----------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------
+
+
+
+
+-----------------------------------------------------------------------------------------
+
+
+
+
+-----------------------------------------------------------------------------------------
+
+
+
+
+-----------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------------------------------------------------------------
+
+
+
+
+-----------------------------------------------------------------------------------------
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------------------------------------------------------------
