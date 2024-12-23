@@ -21,10 +21,18 @@ Javascript engine has two places to store the data.
 
 2. Heap - where javscript engine unsure how much space that vaialbe will take, Its all non primitive data types stored in here
 
------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+
+String.
+
+After using the String methods, String never convert or modify the actual variable.
 
 
------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+
+nums and Maths
+
+
 
 
 -----------------------------------------------------------------------------------------
