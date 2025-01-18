@@ -37,10 +37,24 @@ nums and Maths
 
 -----------------------------------------------------------------------------------------
 
+Array:
+1. Resizable, contain mix of all datatypes values.
+2. zero index start
+3. Array Copy operation create a shallow copy. (Shallow Copy - shared same reference, Deep Copy - not shared same reference).
 
+Slice:
+myArray.slice(1,3)
+Slice will not make changes in original array and it will take end index upto 2 element.
 
+Splice
+myArray.splice(1,3)
+Splice will make changes in original array and it will take out the element from start to end position from array as per mentioned index, also last index element.
 -----------------------------------------------------------------------------------------
+Objects
 
+Two ways to declare the Objects.
+1. Literal
+2. Constructor
 
 
 
